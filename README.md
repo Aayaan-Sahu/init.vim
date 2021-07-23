@@ -1,1 +1,1 @@
-# init.vim
+# My neovim configuration (with Neovide)
