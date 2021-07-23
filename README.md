@@ -1,5 +1,8 @@
 # My neovim configuration (with Neovide)
 
+## Example
+<img src="https://raw.githubusercontent.com/Aayaan-Sahu/init.vim/Configuration-Screenshot.png" height="450">
+
 ## Install FiraCode Nerd Font
 1. `brew tap homebrew/cask-fonts`
 2. `brew install --cask font-fira-code`
